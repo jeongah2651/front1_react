@@ -47,8 +47,9 @@ W3C 웹표준: https://validator.w3.org/
 
 
 ## SEO 스코어 분석
-- 스코어 분석에 사용한 서비스: (링크 적기, 예: https://www.seobility.net/en/seocheck/)
+
 - https://wave.webaim.org/
+- https://www.seobility.net/en/seocheck/
 
 ### 개선점
 - 스코어 개선을 위해 필요한 작업 1
