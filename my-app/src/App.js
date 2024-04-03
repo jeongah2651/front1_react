@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          jalee의 React 학습 여정
+        React를 처음 배우면서 만든 첫 프로젝트에 대한 내용과 학습 과정을 공유합니다.
         </p>
       </header>
     </div>
