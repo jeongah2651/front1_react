@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 
 const pageTitle = 'jalee의 React 학습 여정';
 const pageDescription = 'React를 처음 배우면서 만든 첫 프로젝트에 대한 내용과 학습 과정을 공유합니다.';
-const pageImageURL = '이미지 URL';
-const pageURL = '페이지 URL';
+const pageImageURL = '%PUBLIC_URL%/favicon/apple-icon-57x57.png';
+const pageURL = 'https://front1-react.vercel.app/';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
